@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Convert It</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_grams_to_kilos">Grams -> Kilograms</string>
+    <string name="title_activity_kilos_to_grams">Kilograms -> Grams</string>
+    <string name="GramsToKilo">Convert Grams to Kilograms</string>
+    <string name="KiloToGrams">Convert Kilograms to Grams</string>
+    <string name="GramToKiloPrompt">&quot;Enter gram value to convert to kilograms: &quot;</string>
+    <string name="KiloToGramsPrompt">Enter kilogram value to convert to grams:</string>
+    <string name="FullConverter">Full Converter</string>
+    <string name="title_activity_full_converter">Full Converter</string>
+    <string name="from">&quot;From: &quot;</string>
+    <string name="to">&quot;To: &quot;</string>
+    <string name="type">"Type: "</string>
+
+</resources>
